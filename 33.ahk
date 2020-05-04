@@ -1,0 +1,3 @@
+﻿p::
+MsgBox,nihk
+return
