@@ -5,6 +5,8 @@
     ● 一个Excel表格内容处理的效率脚本程序
     
     ●  初始热键Win + z
+    
+    ●  下载地址: https://sixtyone.lanzous.com/b015cpfji
 
 ## 有哪些功能？
 
