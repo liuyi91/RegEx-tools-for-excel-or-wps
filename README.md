@@ -23,9 +23,12 @@
 
 ## 下载地址
     ●  下载地址: https://sixtyone.lanzoux.com/b015cpfji
+    
     ●  视频介绍: https://space.bilibili.com/250915492/video
+    
     ●  帮助地址: https://note.youdao.com/ynoteshare/index.html?id=e86b7205e6b3358c7f37b9536d2740d0&type=note&_time=1647007734406
-    ●  更多小工具请关注QQ群：595797774（1群已满） 2群：233862980
+    
+    ●  交流反馈及更多小工具请关注QQ群：595797774（1群已满） 2群：233862980
     
 ## 问题反馈、建议
  在使用过程中有任何问题及建议，欢迎反馈。
