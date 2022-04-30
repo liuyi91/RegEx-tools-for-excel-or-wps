@@ -1,40 +1,38 @@
 ## Excel、WPS正则工具
-
-    ● 正则提取，替换，定位，筛选
+● 正则提取，替换，定位，筛选
     
-    ● 一个Excel、Wps表格内容处理的效率脚本程序
+● 一个Excel、Wps表格内容处理的效率脚本程序
     
-    ●  初始热键Win + z(可自定义修改)
-    
-
+●  初始热键Win + z(可自定义修改)
 ## 有哪些功能？
+● 根据正则表达式提取单元格中的相应内容；
 
-    ● 根据正则表达式提取单元格中的相应内容；
+● 根据正则表达式替换单元格中的相应内容；
 
-    ● 根据正则表达式替换单元格中的相应内容；
+● 根据正则表达式定位到相应单元格；
 
-    ● 根据正则表达式定位到相应单元格；
-    
-    ● 根据正则表达式筛选相应行；
-    
-    ● 除正则模式外还支持普通模式；
-    
-    ● 除此外还有各种常用的辅佐小功能。
+● 根据正则表达式筛选相应行；
+
+● 除正则模式外还支持普通模式；
+
+● 除此外还有各种常用的辅佐小功能。
 
 ## 下载地址
-    ●  蓝奏云下载: https://sixtyone.lanzoux.com/b015cpfji
+●  下载地址:[蓝奏云:https://sixtyone.lanzoux.com/b015cpfji](https://sixtyone.lanzoux.com/b015cpfji)
     
-    ●  Bi视频介绍: https://space.bilibili.com/250915492/video
+●  视频介绍: [bilibili视频](https://space.bilibili.com/250915492/video)
     
-    ●  帮助地址: https://note.youdao.com/ynoteshare/index.html?id=e86b7205e6b3358c7f37b9536d2740d0&type=note&_time=1647007734406
+●  帮助地址: [帮助有道云](https://note.youdao.com/ynoteshare/index.html?id=e86b7205e6b3358c7f37b9536d2740d0&type=note&_time=1647007734406)
     
-    ●  交流反馈及更多小工具请关注QQ群：595797774（1群已满） 2群：233862980
+●  交流反馈及更多小工具请关注QQ群：595797774（1群已满） 2群：233862980
     
 ## 问题反馈、建议
  在使用过程中有任何问题及建议，欢迎反馈。
  
-    ● Email:576642385@qq.com (支持小工具定制)
-    ● 微信：
+ ● Email:576642385@qq.com (支持小工具定制)
+ 
+ ● 微信：
+ 
 ![](https://github.com/liuyi91/Excel/blob/master/images/card.jpg)
 
 ## 捐赠开发者
