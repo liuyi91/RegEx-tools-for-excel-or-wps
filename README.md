@@ -1,4 +1,4 @@
-## Excel正则小工具？
+## Excel、WPS正则工具
 
     ● 正则提取，替换，定位，筛选
     
@@ -22,9 +22,9 @@
     ● 除此外还有各种常用的辅佐小功能。
 
 ## 下载地址
-    ●  下载地址: https://sixtyone.lanzoux.com/b015cpfji
+    ●  蓝奏云下载: https://sixtyone.lanzoux.com/b015cpfji
     
-    ●  视频介绍: https://space.bilibili.com/250915492/video
+    ●  Bi视频介绍: https://space.bilibili.com/250915492/video
     
     ●  帮助地址: https://note.youdao.com/ynoteshare/index.html?id=e86b7205e6b3358c7f37b9536d2740d0&type=note&_time=1647007734406
     
@@ -34,11 +34,13 @@
  在使用过程中有任何问题及建议，欢迎反馈。
  
     ● Email:576642385@qq.com (支持小工具定制)
+    ● 微信：
+![](https://github.com/liuyi91/Excel/blob/master/images/card.jpg)
 
 ## 捐赠开发者
 
  在工作之余写了一个提高excel、wps表格处理效率的小工具，分享给有同样需求的小伙伴们，希望大家喜欢。
- 
+ ![](https://github.com/liuyi91/Excel/blob/master/images/20220430173942.png)
  
 ## 更新历史
     ● v1.5.1[2022.04.30] 
