@@ -35,6 +35,18 @@
  
 ![](https://github.com/liuyi91/Excel/blob/master/images/card.jpg)
 
+## 文件夹中文件作用
+
+| 文件名         | 作用      |
+| ------------- | ------------- |
+| userzz.ini  | 自定义正则库 |
+| Setting.ini  | 设置配置  |
+| 常用正则.txt  | 可搜集常用正则  |
+| 常用替换.txt  | 可搜集常用替换 |
+| 历史正则.txt  | 缓存的历史 |
+| CustomFunctions.ahk  | 自定义正则函数 |
+| CustomAHK.ahk  | 辅佐功能及其他高级配置 |
+
 ## 捐赠开发者
 
  在工作之余写了一个提高excel、wps表格处理效率的小工具，分享给有同样需求的小伙伴们，希望大家喜欢。
