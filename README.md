@@ -1,8 +1,8 @@
-## Excel、WPS正则工具
+## <font color=red>Excel、WPS正则工具 1.5.2</font>
 ● 正则提取、替换、定位、筛选
     
-● 初始热键Win + z
-> 在这里声明一下：本软件由本人用Aardio与Autohotkey亲写，只要是在本人蓝奏云或github或群里下载的本软件，如若有朋友担心杀软报病毒、木马，不要私聊我，可直接删除。
+● 初始热键**Win + z**
+> 在这里声明一下：本软件由本人用Aardio与Autohotkey亲写，只要是在本人蓝奏云或github或群里下载的本软件，如若有朋友担心杀软报病毒、木马，不用私聊我，可直接删除。
 
 ### 一、有哪些功能？
 ##### 1、根据正则表达式提取单元格中的相应内容；
@@ -17,9 +17,9 @@
 ##### 6、除此外还有各种常用的辅佐小功能。
 | 辅佐功能1 | 辅佐功能2 |辅佐功能3 |辅佐功能4 |辅佐功能5 |
 | ------------- |  ------------- |  ------------- |  ------------- |  ------------- | 
-| 区域求和复制 | 区域转值 |选区偏移 |数据对比 |vlookup一查多 |
-| 单元格公式复制 | 分级显示 |高亮关键字 |区域去重|清除编辑密码 |
-| 按字符分行 | 金额转大写 |四舍五入 |选中空行|各行插入行 |
+| <font color=red>**区域求和复制**</font> | <font color=red>**区域转值**</font> |选区偏移 |数据对比 |<font color=red>**vlookup一查多**</font> |
+| 单元格公式复制 | <font color=red>**分级显示**</font> |高亮关键字 |区域去重|清除编辑密码 |
+| <font color=red>**按字符分行**</font> | 金额转大写 |四舍五入 |选中空行|各行插入行 |
 
 ### 二、下载地址
 ●  下载地址:[蓝奏云:https://sixtyone.lanzoux.com/b015cpfji](https://sixtyone.lanzoux.com/b015cpfji)
@@ -28,58 +28,67 @@
     
 ●  帮助地址: [帮助有道云](https://note.youdao.com/ynoteshare/index.html?id=e86b7205e6b3358c7f37b9536d2740d0&type=note&_time=1647007734406)
     
-●  交流反馈及更多小工具请关注QQ群：595797774（1群已满） 2群：233862980
+●  交流反馈及更多小工具请关注QQ群：595797774（1群已满） <font color=red>**2群：233862980**</font>
 
 ### 三、文件夹中文件作用
 
 | 文件名         | 作用      |
 | ------------- | ------------- |
-| userzz.ini  | 自定义正则库 |
+| **userzz.ini**  | **自定义正则库** |
 | Setting.ini  | 设置配置  |
 | 常用正则.txt  | 可搜集常用正则  |
 | 常用替换.txt  | 可搜集常用替换 |
 | 历史正则.txt  | 缓存的历史正则 |
-| CustomFunctions.ahk  | 自定义正则函数 |
-| CustomAHK.ahk  | 辅佐功能及其他高级配置 |
+| **CustomFunctions.ahk**  | **自定义正则函数** |
+| **CustomAHK.ahk**  | **辅佐功能及其他高级配置** |
 
 ### 四、高度自定义设计
-- [x] 启动热键自定义
-- [x] 辅佐功能热键自定义
-- [x] 自定义正则库添加
-- [x] 自定义函数功能添加
-- [x] 各种默认设置修改
-- [x] 可结合autohotkey编写各种功能
+<font color=Green>
+
+- [x] **启动热键自定义**
+- [x] **辅佐功能热键自定义**
+- [x] **自定义正则库添加**
+- [x] **自定义函数功能添加**
+- [x] **各种默认设置修改**
+- [x] **可结合autohotkey编写各种功能**
+
+</font>
+
 
 ### 五、特色功能
-- [x] 强力的pcre正则环境 > [详见pcre](http://www.pcre.org/pcre.txt)
-- [x] 支持操作单元格的vaule、Formula、Text格式内容
-- [x] 支持撤销
-- [x] 支持Tab分列
-- [x] 支持偏移输出
-- [x] 可通过自定义函数解决不支持反向不定长断言的不足 
-- [x] 支持循环替换、多次执行、依次顺序执行等高级一步到位功能
-- [x] 可执行简易vba代码 
-- [x] 支持与Excel、WPS自带公式联合执行
+<font color=Green>
+
+- [x] **强力的pcre正则环境** > [详见pcre](http://www.pcre.org/pcre.txt)
+- [x] **支持操作单元格的vaule、Formula、Text格式内容**
+- [x] **支持撤销**
+- [x] **支持Tab分列**
+- [x] **支持偏移输出**
+- [x] **可通过自定义函数解决不支持反向不定长断言的不足**
+- [x] **支持循环替换、多次执行、依次顺序执行等高级一步到位功能**
+- [x] **可执行简易vba代码** 
+- [x] **支持与Excel、WPS自带公式联合执行**
+
+</font>
 
 ![](https://github.com/liuyi91/Excel/blob/master/images/fgdy.gif)
 
 ### 六、特殊格式说明
-  高版本：自定义函数中的循环替换、多次执行、依次顺序执行； **（注意自定义函数功能都需将模式切换为到正则替换）** 
+  高版本：自定义函数中的循环替换、多次执行、依次顺序执行； （<font color=red>注意自定义函数功能都需将模式切换为到**正则替换</font>）** 
 - **循环替换**（替换第1次后；第2次继续以上一次结果继续替换；。。。直到无匹配时结束。注:替换不当容易造成无限循环。）
    1. **格式：** 
    > - 正则表达式中一般输入：.+
    > - 子模式序号后选择：循环替换
    > - 替换框中格式：正则表达式>>替换内容 
 
-   如:将sk1dd12k877asdfsdf123dfdfdsk1dd12中a后面的数字替换为"数字" 
+   如:将sk1dd12k877asdfsdf<font color=red>123</font>dfdfdsk<font color=red>1</font>dd<font color=red>12</font>中a后面的数字替换为"数字" 
 
    |原文本| 结果|
    | -----| --- |
-   |sk1dd12k877asdfsdf123dfdfdsk1dd12|sk1dd12k877asdfsdf数字dfdfdsk数字dd数字|
+   |sk1dd12k877asdfsdf<font color=red>123</font>dfdfdsk<font color=red>1</font>dd<font color=red>12</font>|sk1dd12k877asdfsdf数字dfdfdsk数字dd数字|
    ```
    i)(?<=a).*?\K\d+>>数字
    ```
-   <details><summary>测试代码快速复制></summary>
+   <details><summary><font color=blue>测试代码快速复制></font></summary>
    
     ```
     [110]
@@ -123,7 +132,7 @@
    匹配:a.+$>>-1
    替换:\d+>>数字
    ```
-   <details><summary>测试代码快速复制></summary>
+   <details><summary><font color=blue>测试代码快速复制></font></summary>
    
     ```
     [110]
@@ -162,13 +171,13 @@
    
     |原文本| 名字|年龄|身高|
     | -----| --- | ---| ---|
-    |他今年21岁，是一个不同寻常的人，他叫：小张，身高177cm|小张|21|177|
+    |他今年<font color=red>21</font>岁，是一个不同寻常的人，他叫：<font color=red>小张</font>，身高<font color=red>177</font>cm|小张|21|177|
    ```
    匹配：叫：\K[\x{4e00}-\x{9fa5}]{2,4}>>1
    匹配：\d+(?=岁)>>1
    匹配：(?<=身高)\d+>>1
    ```
-   <details><summary>测试代码快速复制></summary>
+   <details><summary><font color=blue>测试代码快速复制></font></summary>
    
     ```
     [110]
@@ -217,7 +226,7 @@
 | ^<br>$  |抑扬符(^) 和美元符($) 被称为 锚, 因为它们不消耗任何字符; 相反地, 它们把模式限定在被搜索字符串的开始或末尾进行匹配<br>在模式的开始处使用 ^ 表示需要在行的开始处进行匹配. 例如, ^abc 可以匹配 abc123 但不匹配 123abc<br>在模式的末尾处使用 $ 表示需要在行的末端进行匹配. 例如, abc$ 可以匹配 123abc 但不能匹配 abc123<br>这两个锚还可以组合使用. 例如, ^abc$ 仅匹配 abc(即在它的前面或后面不能有另外的字符)<br>如果被搜索的文本包含多行, 则可以使用 "m" 选项让锚应用于每行而不是把所有文本作为整体. 例如, `am)^abc$ 可以匹配 123`r`nabc`r`n789. 如果没有 "m" 选项则不会匹配成功|
 | \b  |"单词边界", 它类似锚, 因为它不消耗任何字符. 它要求当前字符的状态为单词字符(\w), 与前一个字符的状态相反. 它通常用来避免意外地匹配到在其他单词内的某个单词. 例如, \bcat\b 不会匹配 catfish, 但它可以匹配不论周围是否有标点或空白的 cat<br>大写的 \B 则相反: 它要求当前字符 不是 单词的边界|
 | \|  |竖线将两个或多个可选项目分隔开来. 如果可选项目中 任何一个 满足条件, 则会形成匹配. 例如, gray\|grey 既可以匹配 gray 也可以匹配 grey. 同样地, 模式 gr(a\|e)y 中通过下面描述的括号的帮助可以实现同样的作用|
-<details><summary>查看更多></summary>
+<details><summary><font color=blue>查看更多></font></summary>
 
 >贪婪: 默认情况下, *, ?, + 和 {min,max} 是贪婪的, 因为它们消耗到 最后一个 能满足整个模式的可能的所有字符. 要让它们停在 首个 可能的字符, 请在它们后面加上问号. 例如, 模式 <.+>(其中没有问号) 表示: "搜索一个 <, 接着一个或多个任意字符, 然后是一个 >". 
 >
@@ -278,7 +287,7 @@
  ○ 增加运行VBA代码功能函数VBE_Run(VBcode,MacroName)，Excel对象变量只能用VbaExcel   
  ○ 增加保存多次执行匹配替换模式  
 
-<details><summary>查看更多历史记录></summary> 
+<details><summary><font color=blue>查看更多历史记录></font></summary> 
         
 - v1.5.0[2022.03.14]   
  ○ 优化内存占用  
