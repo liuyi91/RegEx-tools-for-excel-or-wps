@@ -26,7 +26,7 @@
     
 ●  视频介绍: [bilibili视频](https://space.bilibili.com/250915492/video)
     
-●  帮助地址: [帮助有道云](https://note.youdao.com/ynoteshare/index.html?id=e86b7205e6b3358c7f37b9536d2740d0&type=note&_time=1647007734406)
+●  帮助地址: [帮助有道云](http://note.youdao.com/noteshare?id=aa13b9095d2e494d8cbdad146f694d71&sub=2BB27C9EA8F1496E974CCD7DB679187E)
     
 ●  交流反馈及更多小工具请关注QQ群：595797774（1群已满） <font color=red>**2群：233862980**</font>
 
