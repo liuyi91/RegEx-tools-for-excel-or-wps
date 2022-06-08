@@ -354,7 +354,7 @@
 |<font color=red>\M</font>|<font color=red>v1.5.4及以上：同\m，可将所有列转为1列<br>限制：\m模式仅支持连续区域且多行</font>|
 |<font color=red>\j</font>|<font color=red>v1.5.4及以上：将选区数据先连接成1列再进行处理，<br>限制：\j模式仅支持连续区域且多行,不支持.text方式</font>|
 |<font color=red>\J</font>|<font color=red>v1.5.4及以上：将选区数据用tab先连接成1列再进行处理，<br>限制：\j模式仅支持连续区域且多行,不支持.text方式</font>|
-|<font color=red>(?CNumCP\I)</font>|<font color=red>v1.5.5及以上：支持数字区间<br>格式：(?<![\d.])[\d.]++(?CNumCP\I[50,150])</font>|
+|<font color=red>(?CNumCP\I)</font>|<font color=red>v1.5.5及以上：支持数字区间<br>格式：(?<![\d.])[\d.]++(?CNumCP\I[50,150])<br>v1.5.6+简写格式：[?Q1.0,91> 或 <?Q,100.0]</font>|
 >1. **在正则匹配模式下：在正则式末尾加上\i1,3,5:7,-2类似代码时，表示提取数组中的第1，3，4，5，6，7及倒数第二个值**  
 >2. **匹配及替换模式下：在末尾加上\m$1-$2等实现连接选区1,2列【\m模式】，列表示：$1及$F两种方式**
 >3. **\j模式格式：可在表达式开始位置输入\j**
