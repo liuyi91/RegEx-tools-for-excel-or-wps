@@ -1,4 +1,4 @@
-## <font color=red>Excel、WPS正则工具 1.5.3</font>
+## <font color=red>Excel、WPS正则工具 1.5.6</font>
 ● 正则提取、替换、定位、筛选
     
 ● 初始热键**Win + z**
@@ -22,13 +22,13 @@
 | <font color=red>**按字符分行**</font> | 金额转大写 |四舍五入 |选中空行|隔行插入行 |
 
 ### 二、下载地址
-●  下载地址:[蓝奏云:https://sixtyone.lanzoux.com/b015cpfji](https://sixtyone.lanzoux.com/b015cpfji)
+●  下载地址[解压密码：3300372390]:[蓝奏云:https://sixtyone.lanzoux.com/b015cpfji](https://sixtyone.lanzoux.com/b015cpfji)
     
 ●  视频介绍: [bilibili视频](https://space.bilibili.com/250915492/video)
     
 ●  帮助地址: [帮助有道云](http://note.youdao.com/noteshare?id=aa13b9095d2e494d8cbdad146f694d71&sub=2BB27C9EA8F1496E974CCD7DB679187E)
     
-●  交流反馈及更多小工具请关注QQ群：595797774（1群已满） <font color=red>**2群：233862980**</font>
+●  交流反馈及更多小工具请关注QQ群：595797774（1群已满） <font color=red>**2群：233862980**</font>[解压密码：3300372390]
 
 ### 三、文件夹中文件作用
 
