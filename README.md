@@ -1,4 +1,4 @@
-## <font color=red>Excel、WPS正则工具 1.5.6</font>
+## <font color=red>Excel、WPS正则工具 2.0.4</font>
 ● 正则提取、替换、定位、筛选
     
 ● 初始热键**Win + z**
