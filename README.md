@@ -183,7 +183,7 @@
     忽略大小写    = 1
     匹配反序      = 0
     正则代码      = .+
-    子模式        = Base64:5Yy56YWNOmEuKyQ+Pi0xDQrmm7/mjaI6XGQrPj7mlbDlrZc=
+    子模式        = Base64:bTphLiskPj4tMQ0KcjpcZCs+PuaVsOWtlw==
     前缀检测      = (^[=+-])|(^\d{17})
     获取数据方式  = 1
     高级模式      = 0
@@ -228,7 +228,7 @@
     忽略大小写    = 1
     匹配反序      = 0
     正则代码      = .+
-    子模式        = Base64:5Yy56YWN77ya5Y+r77yaXEtbXHh7NGUwMH0tXHh7OWZhNX1dezIsNH0+PjENCuWMuemFje+8mlxkKyg/PeWygSk+PjENCuWMuemFje+8mig/PD3ouqvpq5gpXGQrPj4x
+    子模式        = Base64:be+8muWPq++8mlxLW1x4ezRlMDB9LVx4ezlmYTV9XXsyLDR9Pj4xDQpt77yaXGQrKD895bKBKT4+MQ0Kbe+8mig/PD3ouqvpq5gpXGQrPj4x
     前缀检测      = (^[=+-])|(^\d{17})
     获取数据方式  = 1
     高级模式      = 1
@@ -451,6 +451,10 @@
  ![](https://github.com/liuyi91/Excel/blob/master/images/20220430173942.png)
  
 ### 十、更新历史
+- v2.1.1[2022.11.30]     
+ ○ 修复一些问题  
+ ○ 修复多次执行函数问题  
+       
 - v2.1.0[2022.11.29]     
  ○ 修复一些问题  
  ○ 增加简易的布尔正则表达式功能支持and or not的定位、筛选  
