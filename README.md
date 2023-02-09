@@ -1,4 +1,4 @@
-## <font color=red>Excel、WPS正则工具 2.1.0</font>
+## <font color=red>Excel、WPS正则工具 2.1.2</font>
 
 # <font color=red> 注意：2022.10.29作者已申请注销在线模式的网址，在线模式已失效，请使用者转到离线模式使用，谢谢。 </font> #
 
@@ -451,6 +451,11 @@
  ![](https://github.com/liuyi91/Excel/blob/master/images/20220430173942.png)
  
 ### 十、更新历史
+- v2.1.2[2023.02.09]     
+ ○ 修复一些问题     
+ ○ 增加B)模式的布尔正则表达式     
+ ○ 布尔表达式格式:B)"a" and "b" 或 B)"i)a" and ("b" or not "c")等     
+ 
 - v2.1.1[2022.11.30]     
  ○ 修复一些问题  
  ○ 修复多次执行函数问题  
