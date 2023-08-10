@@ -1,4 +1,4 @@
-## <font color=red>Excel、WPS正则工具 2.1.5</font>
+## <font color=red>Excel、WPS正则工具 2.1.7</font>
 
 # <font color=red> 注意：2022.10.29作者已申请注销在线模式的网址，在线模式已失效，请使用者转到离线模式使用，谢谢。 </font> #
 
