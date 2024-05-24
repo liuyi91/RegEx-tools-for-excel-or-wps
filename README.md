@@ -1,4 +1,4 @@
-## <font color=red>Excel、WPS正则工具 2.2.2    [RegEx tools for excel or wps]</font>
+## <font color=red>Excel、WPS正则工具 2.2.6    [RegEx tools for excel or wps]</font>
 
 # <font color=red> 注意：2022.10.29作者已申请注销在线模式的网址，在线模式已失效，请使用者转到离线模式使用。 </font> #
 
@@ -456,6 +456,10 @@
  ![](https://github.com/liuyi91/Excel/blob/master/images/20220430173942.png)
  
 ### 十、更新历史
+- v2.2.6[2024.05.24]     
+ ○ mmseg分词的dll可以外置，且外置dll优先于内置的mmseg.dll文件（主要用于最长字数)    
+ ○增加aardio.onloadWords(path)函数导入mmseg的分词词库
+
 - v2.2.2[2024.04.18]     
  ○ 增加序列数组生成函数indexArr(n,offset)，如indexArr(100,1)，返回2~101的数组
 
