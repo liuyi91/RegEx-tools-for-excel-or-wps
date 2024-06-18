@@ -1,11 +1,13 @@
 ## <font color=red>Excel、WPS正则工具 2.2.6    [RegEx tools for excel or wps]</font>
 
-# <font color=red> 注意：2022.10.29作者已申请注销在线模式的网址，在线模式已失效，请使用者转到离线模式使用。 </font> #
+# <font color=red> ~~注意：2022.10.29作者已申请注销在线模式的网址，在线模式已失效，请使用者转到离线模式使用。~~ </font> #
 
 ● 正则提取、替换、定位、筛选
     
 ● 初始热键**Win + z**
 > 在这里声明一下：本软件由本人用Aardio与Autohotkey亲写，只要是在本人蓝奏云或github或群里下载的本软件，如若有朋友担心杀软报病毒、木马，不用私聊我，可直接删除。
+
+### <font color="red">表格正则工具动图例子: [帮助](https://note.youdao.com/s/6qv3U6jG)</font>
 
 ### 一、有哪些功能？
 ##### 1、根据正则表达式提取单元格中的相应内容；
@@ -113,7 +115,7 @@
     
 </font>
 
-![](https://github.com/liuyi91/Excel/blob/master/images/fgdy.gif)
+![](https://gitee.com/sixtyone91/data/raw/master/data/images/fgdy.gif)
 
 ### 六、特殊格式说明
   高版本：自定义函数中的循环替换、多次执行、依次顺序执行； （<font color=red>注意自定义函数功能都需将模式切换为到**正则替换</font>）** 
@@ -448,12 +450,12 @@
  
  ● 微信：
  
-![](https://github.com/liuyi91/Excel/blob/master/images/card.jpg)
+![](https://gitee.com/sixtyone91/data/raw/master/data/images/card.jpg)
 
 ### 九、捐赠开发者
 
  在工作之余写了一个提高excel、wps表格处理效率的小工具，分享给有同样需求的小伙伴们，希望大家喜欢。
- ![](https://github.com/liuyi91/Excel/blob/master/images/20220430173942.png)
+ ![](https://gitee.com/sixtyone91/data/raw/master/data/images/20220430173942.png)
  
 ### 十、更新历史
 - v2.2.6[2024.05.24]     
